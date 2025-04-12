@@ -64,4 +64,4 @@ linuxQQ：3.2.16-32793
 
   喵~  :heavy_check_mark:
 
-  戳回去（这些协议端奇奇怪怪的api我看蒙了，等我研究研究，怎么onebot和napcat的api不一样阿）:heavy_check_mark:
+  戳回去（这些协议端奇奇怪怪的api我看蒙了，等我研究研究，怎么onebot和napcat的api不一样阿） :heavy_check_mark:
