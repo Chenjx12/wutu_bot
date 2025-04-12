@@ -16,10 +16,10 @@ async def Test_send(bot: Bot, event: GroupMessageEvent, state: T_State):
     reply_msg = f""
  #   await Test.send(Message.reply(event.message_id) + MessageSegment.text(reply_msg))
 #    await Test.finish(MessageSegment.at(user_id))
-    db = pymysql.connect(host='localhost',
-                     user='root',
-                     password='x121281',
-                     database='qqbot')
+    db = pymysql.connect(host='yourhost',
+                     user='youruser',
+                     password='yourpassword',
+                     database='yourdatabase')
     
     # 使用 cursor() 方法创建一个游标对象 cursor
     cursor = db.cursor()
