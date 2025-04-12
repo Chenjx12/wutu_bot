@@ -42,9 +42,9 @@ linuxQQ：3.2.16-32793
 
   - 连续交互 :heavy_check_mark:
 
-  - 计时功能 **&#10004**
+  - 计时功能 :heavy_check_mark:
 
-  - 评价体系（值得一喵） **&#10004**
+  - 评价体系（值得一喵） :heavy_check_mark:
 
   - 题库录入（正在做
 
@@ -62,6 +62,6 @@ linuxQQ：3.2.16-32793
 
 - [ ] 戳一戳有回应
 
-  喵~  **&#10004**
+  喵~  :heavy_check_mark:
 
   戳回去（这些协议端奇奇怪怪的api我看蒙了，等我研究研究，怎么onebot和napcat的api不一样阿）
