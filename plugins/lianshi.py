@@ -8,11 +8,11 @@ from datetime import datetime
 
 # 数据库配置
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 3306,
-    "user": "root",
-    "password": "x121281",
-    "db": "lianshi",
+    "host": "yourhost",
+    "port": port,
+    "user": "youruser",
+    "password": "yourpassword",
+    "db": "yourdatebase",
     "charset": "utf8mb4",
     "autocommit": True
 }
